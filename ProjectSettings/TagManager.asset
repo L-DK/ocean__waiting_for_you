@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Prop
+  - Enemy
+  - player
+  - protect
+  - Attract
+  - Food
+  - board
+  - Pz
+  - Hy
+  - Null
+  - Ey
+  - food
+  - ball
+  - NULL
+  - "\u7AE0\u9C7C"
+  - staicrubbish
+  - "\u6C34\u6CE2\u9C7C"
+  - "\u706F\u7B3C\u9C7C"
+  - sound
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 0
+  - null
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - attract
+  - Food
+  - Enemy
+  - Invincible
+  - L1_Player
+  - L1_Pro
+  - L1_food
+  - L1_obj
+  - L1_shitou
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

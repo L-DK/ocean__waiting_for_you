@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 61560f2063dc12b42b6562b5636a8e7a
+timeCreated: 1557403777
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFPHaiBaoW12-GB
+  fontNames:
+  - DFPHaiBaoW12-GB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b199a495603c2434388936dbe0527e00, type: 3}
+  - {fileID: 12800000, guid: 3a2b5c0c9dc85a94aa797255a1d8a92d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
